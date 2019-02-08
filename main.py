@@ -2,7 +2,7 @@
 
 # Date: 02-09-19, Feb ~ 9nd 2010 | Synchronocy
 # Project: Discord Token Checker
-# work around from discord.py
+# Simple token checker
 # IDLE Python 3.6 64-bit
 import requests
 headers={
